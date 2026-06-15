@@ -1,0 +1,4 @@
+github.com/ArcadiaLin/go-epub v0.1.1 h1:13roe62tarrZ1Y1QTxE+Bzd/NKlChhRzegLVmU5Hgws=
+github.com/ArcadiaLin/go-epub v0.1.1/go.mod h1:GY09AG6jnEbsYytkw6VeICLOt25F1GQDGXjYS7cxNhU=
+golang.org/x/net v0.44.0 h1:evd8IRDyfNBMBTTY5XRF1vaZlD+EmWx6x8PkhR04H/I=
+golang.org/x/net v0.44.0/go.mod h1:ECOoLqd5U3Lhyeyo/QDCEVQ4sNgYsqvCZ722XogGieY=
